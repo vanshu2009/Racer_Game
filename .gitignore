@@ -1,0 +1,10 @@
+[Ll]ibrary/
+[Tt]emp/
+[Tt]argets/
+[Aa]ssets/AssetStoreTools*
+[Dd]ebug/
+[Dd]ebugPublic/
+[Mm]emoryCaptures/
+.idea/
+.vscode/
+.vs/
